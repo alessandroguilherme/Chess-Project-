@@ -1,4 +1,4 @@
-package model.BoardGame;
+package model.boardGame;
 
 public class Position {
     private Integer row;

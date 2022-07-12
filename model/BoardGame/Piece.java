@@ -1,4 +1,4 @@
-package model.BoardGame;
+package model.boardGame;
 
 public class Piece {
     protected Position position;
@@ -15,10 +15,4 @@ public class Piece {
         return board;
     }
 
-    
-
-    
-    
-    
-    
 }
